@@ -1,6 +1,5 @@
 import { ThemeProvider } from "next-themes";
 import "../css/tailwind.css";
-import "../styles/globals.css"
 import Navbar from "../components/navbar"
 
 function MyApp({ Component, pageProps }) {
